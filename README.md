@@ -1,8 +1,8 @@
 # Circle_CNN
 
 <p float="left">
-  <img src="./img/prediction.png" width="400" />
-  <img src="./img/CustomCNN3.png" width="400" /> 
+  <img src="./img/prediction.png" height="400" />
+  <img src="./img/CustomCNN3.png" height="400" /> 
 </p>
 
 # :memo: Description
