@@ -1,13 +1,12 @@
 # Circle_CNN
 
-<p float="left">
-  <img src="./img/prediction.png" height="400" />
-  <img src="./img/CustomCNN3.png" height="400" /> 
-</p>
+<img src="./img/CustomCNN3.png" height="400" /> 
 
 # :memo: Description
 
 This project sets up a relatively simple task for a ConvNN to perform a regression task. Images contain a circle or random size and position. The goal is to output the position (x,y) and the radius r of the circle for varying levels of noise in the images. Two models are built and compared. The full write up is either found in the model_evaluation.ipynb or in my [portfolio](https://sebastianghafafian.github.io/Portfolio/Circle_CNN.html).
+
+<img src="./img/prediction.png" height="400" />
 
 # :open_file_folder: Data Set
 
